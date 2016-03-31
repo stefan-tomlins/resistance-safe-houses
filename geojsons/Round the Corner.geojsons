@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Not A Front",
+        "Address": "100 Leicester Street",
+        "Review": "4 Stars: Decent coffee, bullet resistant glass, only negative is 1 or 2 government spies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96083915233612,
+          -37.80374432762521
+        ]
+      }
+    }
+  ]
+}
